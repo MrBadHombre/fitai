@@ -1,0 +1,19 @@
+.heroTextBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background: #12161c;
+  color: #5193b8;
+  margin-left: 200px;
+  margin-top: 240px;
+  gap: 20px;
+}
+
+.heroName {
+  color: #aad8f1;
+}
+
+.heroText {
+  margin: 0px;
+}
